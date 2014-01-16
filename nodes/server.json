@@ -1,4 +1,6 @@
 {
     "run_list": [
+        "recipe[sugar_crm]",
+        "recipe[mysql]"
     ]
 }
